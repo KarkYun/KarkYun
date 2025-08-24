@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kweku Nartey Ablakwa</h1>
-<h3 align="center">I'm a B.Tech Computer Science Student in Ghana. I'm currently learning web development and Java. I'm an aspiring mobile app developer and web developer.</h3>
+<h3 align="center">I'm a B.Tech Computer Science Student in Ghana. I'm currently learning web development and Java.</h3>
 
 - 🔭 I’m currently working on **E-Shop**
 
