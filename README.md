@@ -21,7 +21,7 @@
 ## 🚀 Projects I'm Currently Working On  
 - 🛒 **E-Shop** → A modern e-commerce platform  
 - 💡 **Personal Portfolio Website** → Showcasing my skills, blogs, and projects  
-- 🧮 **Java Calculator** → [View on GitHub](https://github.com/KarkYun/Calculator)  
+ 
 
 ---
 
