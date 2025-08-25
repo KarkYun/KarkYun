@@ -37,8 +37,8 @@
 
 ---
 
-## 🔄 Auto-updating Projects (Latest Repos)  
-<!-- This section will auto-update using GitHub Actions -->
+<!--## 🔄 Auto-updating Projects (Latest Repos)  
+<!-- This section will auto-update using GitHub Actions 
 ### 🔥 Latest Projects  
 <!--START_SECTION:projects-->
 <!-- Projects will be automatically inserted here -->
