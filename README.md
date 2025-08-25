@@ -44,7 +44,6 @@
 <!-- Projects will be automatically inserted here -->
 <!--END_SECTION:projects-->
 
----
 
 ## 🛠️ Languages & Tools  
 <p align="center">
