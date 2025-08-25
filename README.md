@@ -47,19 +47,20 @@
 
 ## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,php,js,html,css,sass,mysql,dotnet,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,php,js,html,css,sass,mysql,ai,ps" />
 </p>  
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karkyun&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karkyun&show_icons=true&layout=compact&theme=transparent" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=karkyun&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karkyun&show_icons=true&theme=transparent" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karkyun&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=karkyun&theme=transparent" alt="GitHub Streak" />
 </p>  
+
 
 ---
 
