@@ -1,7 +1,9 @@
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kweku;Computer+Science+Student;Web+%26+Java+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+<!-- Typing SVG Header 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kweku;Computer+Science+Student;Web+%26+Java+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)-->
 
----
+<h1 align="center">Hi 👋, I'm Kweku</h1>
+
+
 
 <h3 align="center">💻 B.Tech Computer Science Student | 🌍 Ghana | 🚀 Web & Java Enthusiast</h3>
 
@@ -19,19 +21,28 @@
 ## 🚀 Projects I'm Currently Working On  
 - 🛒 **E-Shop** → A modern e-commerce platform  
 - 💡 **Personal Portfolio Website** → Showcasing my skills, blogs, and projects  
-- 🧮 **Java Calculator** → Simple calculator built with Java (GitHub repo below)  
+- 🧮 **Java Calculator** → [View on GitHub](https://github.com/KarkYun/Calculator)  
 
 ---
 
 ## 🌟 Featured Projects  
-<p align="center">
-  <a href="https://github.com/KarkYun/Agri_Connect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KarkYun&repo=Agri_Connect&theme=radical" />
-  </a>
-  <a href="https://github.com/KarkYun/Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KarkYun&repo=Calculator&theme=radical" />
-  </a>
-</p>  
+*(Coming Soon — will showcase my best work here!)*  
+
+---
+
+## 📂 Previous Projects  
+- 🌱 **AgriConnect** → Agricultural platform to connect farmers and buyers. [View on GitHub](https://github.com/KarkYun/Agri_Connect)  
+- 🧮 **Java Calculator** → A simple calculator built with Java. [View on GitHub](https://github.com/KarkYun/Calculator)  
+
+
+---
+
+## 🔄 Auto-updating Projects (Latest Repos)  
+<!-- This section will auto-update using GitHub Actions -->
+### 🔥 Latest Projects  
+<!--START_SECTION:projects-->
+<!-- Projects will be automatically inserted here -->
+<!--END_SECTION:projects-->
 
 ---
 
