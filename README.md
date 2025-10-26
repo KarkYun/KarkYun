@@ -76,4 +76,20 @@
 
 ## 🎉 Fun Fact  
 <p align="center">
-  <img src="https://img.shields.io/badge/Fun%20Fact-Coffee%20was%20discovered%20b
+  <img src="https://img.shields.io/badge/Fun%20Fact-Coffee%20was%20discovered%20by%20goats-ff69b4?style=for-the-badge" />
+</p>  
+
+---
+
+## 🤝 Connect with Me  
+<p align="center">
+<a href="https://twitter.com/karkyun" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-@karkyun-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>  
+<a href="https://linkedin.com/in/karkyun" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-karkyun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
+<a href="https://wa.me/233241573153" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-+233241573153-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+</p>
