@@ -3,15 +3,13 @@
 
 <h1 align="center">Hi 👋, I'm Kweku</h1>
 
-
-
-<h3 align="center">💻 B.Tech Computer Science Student | 🌍 Ghana | 🚀 Web & Java Enthusiast</h3>
+<h3 align="center">💻 B.Tech Computer Science Student | 🌍 Ghana | 🚀 Web, React & Java Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 Currently working on **E-Shop**  
-- 🌱 Learning **Java, Python, JavaScript**  
+- 🔭 Currently working on **E-Shop** (frontend built with **React**)  
+- 🌱 Learning **Java, Python, JavaScript, React**  
 - 📝 Writing articles on [LinkedIn](https://www.linkedin.com/in/karkyun)  
 - 📫 Reach me at **kentablakwa01@gmail.com**  
 - 📄 Check my experiences on [LinkedIn](https://www.linkedin.com/in/karkyun)  
@@ -19,21 +17,19 @@
 ---
 
 ## 🚀 Projects I'm Currently Working On  
-- 🛒 **E-Shop** → A modern e-commerce platform  
-- 💡 **Personal Portfolio Website** → Showcasing my skills, blogs, and projects  
- 
+- 🛒 **E-Shop** → A modern e-commerce platform (React frontend, backend in progress)  
+- 💡 **Personal Portfolio Website** → Showcasing my skills, blogs, and projects (built with React)
 
 ---
 
 ## 🌟 Featured Projects  
-*(Coming Soon — will showcase my best work here!)*  
+*(Coming Soon — will showcase my best work here!)*
 
 ---
 
 ## 📂 Previous Projects  
 - 🌱 **AgriConnect** → Agricultural platform to connect farmers and buyers. [View on GitHub](https://github.com/KarkYun/Agri_Connect)  
 - 🧮 **Java Calculator** → A simple calculator built with Java. [View on GitHub](https://github.com/KarkYun/Calculator)  
-
 
 ---
 
@@ -47,7 +43,7 @@
 
 ## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,php,js,html,css,sass,mysql,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,php,js,react,html,css,sass,mysql,ai,ps" />
 </p>  
 
 ---
@@ -72,7 +68,7 @@
 ---
 
 ## 🎯 Future Plans  
-- 🚀 Learn **React** and expand into full-stack web development  
+- 🚀 Become proficient in **React** and expand into full-stack web development (React + Node.js / Express)  
 - 🤝 Contribute to open-source projects  
 - 📚 Continue growing in **Java & Python**  
 
@@ -80,20 +76,4 @@
 
 ## 🎉 Fun Fact  
 <p align="center">
-  <img src="https://img.shields.io/badge/Fun%20Fact-Coffee%20was%20discovered%20by%20goats-ff69b4?style=for-the-badge" />
-</p>  
-
----
-
-## 🤝 Connect with Me  
-<p align="center">
-<a href="https://twitter.com/karkyun" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-@karkyun-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>  
-<a href="https://linkedin.com/in/karkyun" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-karkyun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>  
-<a href="https://wa.me/233241573153" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-+233241573153-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-</p>
+  <img src="https://img.shields.io/badge/Fun%20Fact-Coffee%20was%20discovered%20b
