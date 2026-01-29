@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 Projects I'm Currently Working On  
-- 🛒 **E-Shop** → A modern e-commerce platform (Flutter frontend, backend in progress)  
+- 🛒 **E-Shop** → A modern e-commerce platform (Flutter frontend, Firebase backend)  
 - 💡 **Personal Portfolio Website** → Showcasing my skills, blogs, and projects (built with React)
 
 ---
