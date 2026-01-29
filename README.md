@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me  
 - 🔭 Currently working on **E-Shop** (frontend built with **React**)  
-- 🌱 Learning **Java, Python, JavaScript, React**  
+- 🌱 Learning **Java, Python, JavaScript, React, Dart**  
 - 📝 Writing articles on [LinkedIn](https://www.linkedin.com/in/karkyun)  
 - 📫 Reach me at **kentablakwa01@gmail.com**  
 - 📄 Check my experiences on [LinkedIn](https://www.linkedin.com/in/karkyun)  
@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 Projects I'm Currently Working On  
-- 🛒 **E-Shop** → A modern e-commerce platform (React frontend, backend in progress)  
+- 🛒 **E-Shop** → A modern e-commerce platform (Flutter frontend, backend in progress)  
 - 💡 **Personal Portfolio Website** → Showcasing my skills, blogs, and projects (built with React)
 
 ---
