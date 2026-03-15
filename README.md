@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kweku</h1>
 
-<h3 align="center">💻 B.Tech Computer Science Student | 🌍 Ghana | 🚀 Web, React & Java Enthusiast</h3>
+<h3 align="center">💻 B.Tech Computer Science Student | 🌍 Ghana | 🚀 Web, React and stuff</h3>
 
 ---
 
@@ -17,8 +17,9 @@
 ---
 
 ## 🚀 Projects I'm Currently Working On  
-- 🛒 **E-Shop** → A modern e-commerce platform (Flutter frontend, Firebase backend)  
-- 💡 **Personal Portfolio Website** → Showcasing my skills, blogs, and projects (built with React)
+- 🛒 **E-Shop** → A modern e-commerce platform 
+- LIG website
+- School System
 
 ---
 
@@ -28,8 +29,8 @@
 ---
 
 ## 📂 Previous Projects  
-- 🌱 **AgriConnect** → Agricultural platform to connect farmers and buyers. [View on GitHub](https://github.com/KarkYun/Agri_Connect)  
-- 🧮 **Java Calculator** → A simple calculator built with Java. [View on GitHub](https://github.com/KarkYun/Calculator)  
+- 🌱 **AgriConnect** → Agricultural platform to connect farmers and buyers. [View on GitHub](https://github.com/KarkYun/Agri_Connect)
+- **Cesa Study Hub**  →  Study Platform for Civil Engineering Students in KTU [View on Web](https://cesaktu.com/)
 
 ---
 
