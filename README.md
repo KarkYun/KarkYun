@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me  
 - 🔭 Currently working on **E-Shop** (frontend built with **React**)  
-- 🌱 Learning **Go, Python, JavaScript, React, Dart**  
+- 🌱 Learning **Go, Python, JavaScript, React**  
 - 📝 Writing articles on [LinkedIn](https://www.linkedin.com/in/karkyun)  
 - 📫 Reach me at **kentablakwa01@gmail.com**  
 - 📄 Check my experiences on [LinkedIn](https://www.linkedin.com/in/karkyun)  
