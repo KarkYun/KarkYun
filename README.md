@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me  
 - 🔭 Currently working on **E-Shop** (frontend built with **React**)  
-- 🌱 Learning **Go, Python, JavaScript, React**  
+- 🌱 Learning **Python, JavaScript, React**  
 - 📝 Writing articles on [LinkedIn](https://www.linkedin.com/in/karkyun)  
 - 📫 Reach me at **kentablakwa01@gmail.com**  
 - 📄 Check my experiences on [LinkedIn](https://www.linkedin.com/in/karkyun)  
@@ -71,7 +71,7 @@
 ## 🎯 Future Plans  
 - 🚀 Become proficient in **React** and expand into full-stack web development (React + Node.js / Express)  
 - 🤝 Contribute to open-source projects  
-- 📚 Continue growing in **Javascript, Go and Python**  
+- 📚 Continue growing in **Javascript, Python**  
 
 ---
 
