@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me  
 - 🔭 Currently working on **E-Shop** (frontend built with **React**)  
-- 🌱 Learning **Python, JavaScript, React**  
+- 🌱 Learning **Python, Kotlin**  
 - 📝 Writing articles on [LinkedIn](https://www.linkedin.com/in/karkyun)  
 - 📫 Reach me at **kentablakwa01@gmail.com**  
 - 📄 Check my experiences on [LinkedIn](https://www.linkedin.com/in/karkyun)  
@@ -17,7 +17,6 @@
 ---
 
 ## 🚀 Projects I'm Currently Working On  
-- 🛒 **E-Shop** → A modern e-commerce platform 
 - LIG website
 - School System
 
@@ -44,7 +43,7 @@
 
 ## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=koitlin,python,js,react,html,css,mysql,postgres,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=kotlin,python,js,react,html,css,mysql,postgres,ai,ps" />
 </p>  
 
 ---
@@ -64,12 +63,12 @@
 ## 🎮 Hobbies & Interests  
 - 🎮 Playing video games  
 - 🍿 Watching anime & movies  
-- ✍️ Writing & sharing knowledge  
+- ✍️ Writing & sharing knowledge
+- ♟️ Playing Chess
 
 ---
 
 ## 🎯 Future Plans  
-- 🚀 Become proficient in **React** and expand into full-stack web development (React + Node.js / Express)  
 - 🤝 Contribute to open-source projects  
 - 📚 Continue growing in **Javascript, Python**  
 
