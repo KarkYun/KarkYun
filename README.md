@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kweku</h1>
 
-<h3 align="center">💻 B.Tech Computer Science Student | 🌍 Ghana | 🚀 Web, React and stuff</h3>
+<h3 align="center">💻 B.Tech Computer Science Student | 🌍 Ghana | 🚀 Web, and stuff</h3>
 
 ---
 
