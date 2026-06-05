@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🌱 Learning **Python, Kotlin, Javascript**  
+- 🌱 Learning **Python, Java, Javascript**  
 - 📝 Writing articles on [LinkedIn](https://www.linkedin.com/in/karkyun)  
 - 📫 Reach me at **kentablakwa01@gmail.com**  
 - 📄 Check my experiences on [LinkedIn](https://www.linkedin.com/in/karkyun)  
@@ -42,7 +42,7 @@
 
 ## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,python,js,react,html,css,mysql,postgres,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,mysql,postgres,ai,ps" />
 </p>  
 
 ---
