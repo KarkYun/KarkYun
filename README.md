@@ -42,7 +42,7 @@
 
 ## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,mysql,postgres,powerbi" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,mysql,postgres" />
 </p>  
 
 ---
