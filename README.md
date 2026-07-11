@@ -17,7 +17,7 @@
 
 ## 🚀 Projects I'm Currently Working On  
 - LIG website
-- School System
+- School System with Java
 
 ---
 
