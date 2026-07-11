@@ -64,6 +64,7 @@
 - 🍿 Watching anime & movies  
 - ✍️ Writing & sharing knowledge
 - ♟️ Playing Chess
+- ✍️ Learning Spanish
 
 ---
 
