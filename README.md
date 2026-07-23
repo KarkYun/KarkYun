@@ -16,13 +16,14 @@
 ---
 
 ## 🚀 Projects I'm Currently Working On  
-- LIG website
 - School System with Java
 
 ---
 
 ## 🌟 Featured Projects  
-*(Coming Soon — will showcase my best work here!)*
+- LIG Ecommerse Website
+- Cesa Study Hub
+- FeeTrack Mobile App
 
 ---
 
